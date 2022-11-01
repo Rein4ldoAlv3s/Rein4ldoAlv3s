@@ -2,9 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-alves-10908b1a3/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
 ![Reinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rein4ldoAlv3s&show_icons=true&theme=blue-green)
 
 ### Tecnologias que eu estudo diariamente
