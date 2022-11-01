@@ -1,4 +1,5 @@
 ### Olá! Eu sou Reinaldo Alves!
+Atualmente tenho 21 anos, e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Procuro sempre me esforçar pra aprender novas tecnologias.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-alves-10908b1a3/)
 
@@ -20,5 +21,3 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 </div><br/>
-
-Meu nome é Reinaldo Alves Leite Santos Jesus, atualmente tenho 21 anos, e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Procuro sempre me esforçar pra aprender novas tecnologias.
