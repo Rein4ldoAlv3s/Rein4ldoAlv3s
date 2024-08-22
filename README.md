@@ -1,5 +1,5 @@
 ### Olá! Eu sou Reinaldo Alves!
-Atualmente tenho 21 anos, e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Procuro sempre me esforçar pra aprender novas tecnologias.
+Atualmente tenho 23 anos, e conclui o curso de Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Procuro sempre me esforçar pra aprender novas tecnologias.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-alves-10908b1a3/)
 
